@@ -21,7 +21,7 @@ A modern desktop productivity application built with **Python**, **PyQt5**, and 
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - Python
 - PyQt5
